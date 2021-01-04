@@ -1,4 +1,5 @@
-# PPSC_task_3: Transaction Record
+# PPSC_task_3: Transaction Record 
+**| difficulty: 5/10 |**
 
 You started a bank. The first one, in fact. So primitive that it doesn't include taxes or any other sort of other fees. Just that it stores money for different accounts and has two services of despoiting and drawing. 
 __________________________________________________________________________________
