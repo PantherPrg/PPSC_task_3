@@ -1,7 +1,7 @@
 # PPSC_task_3: Transaction Record 
 **| difficulty: 5/10 |**
 
-You started a bank. The first one, in fact. So primitive that it doesn't include taxes or any other sort of other fees. Just that it stores money for different accounts and has two services of despositing and drawing. You need to find the amount of money this account has by the end of all of these transactions. 
+You started a bank. The first one, in fact. So primitive that it doesn't include taxes or any other sort of other fees. Just that it stores money for different accounts and has two services of depositing and drawing. You need to find the amount of money this account has by the end of all of these transactions. 
 __________________________________________________________________________________
 **Input**:
 You are given a list, the first item being the amount of money you initially have in your account. 
