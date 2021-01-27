@@ -9,6 +9,8 @@ ________________________________________________________________________________
 **Output**:
 Make sure to add a newline at the end of your returned answer. This is needed to match the format for the task result.
 __________________________________________________________________________________
+**optional challenge: write your code in under 11 lines**
+
 This problem deals with lists, finding values using the indexes of a list, casting datatypes, for loops, and if statements. This task will help you get comfortable with using lists.
 
 For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
